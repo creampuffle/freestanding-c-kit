@@ -1,6 +1,7 @@
 #include "fckit/numeric.h"
 
 #include <limits.h>
+#include <stddef.h>
 
 static int digit_value(char character)
 {
