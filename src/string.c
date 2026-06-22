@@ -1,3 +1,9 @@
+/*
+ * Copyright (C) 2026 creampuffle
+ * SPDX-License-Identifier: GPL-3.0-only
+ * Additional terms apply; see ADDITIONAL_TERMS.
+ */
+
 #include "fckit/string.h"
 
 void *fckit_memcpy(void *destination, const void *source, size_t count)
